@@ -19,7 +19,7 @@ Make sure you have the following installed on your machine:
 ## Backend Setup
 ### 1. Clone the repository:
 ```bash
-git clone https://github.com/bilalrasheed922/Bilal_management.git
+git clone https://github.com/bilalbinrasheed/Bilal_Task_management.git
 ```
 
 ### 2. Configure the database:
